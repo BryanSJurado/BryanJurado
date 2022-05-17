@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">BryanJurado</string>
+    <string name="txtnombre1">Nombre</string>
+    <string name="txtnombre2">Nombre</string>
+    <string name="txtnombre3">Nombre</string>
+    <string name="txtPotencia">Potencia</string>
+
+    <string name="txtapellido">Apellido</string>
+    <string name="txtapellido2">Apellido</string>
+
+    <string name="txtbase1">Base</string>
+    <string name="txtbase2">Base</string>
+    <string name="txtbase3">Base</string>
+
+    <string name="txtexponente">Exponente</string>
+    <string name="txtexponente2">Exponente</string>
+
+    <string name="txtFactorial">Factorial</string>
+    <string name="txtFactorial2">Factorial</string>
+
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnSiguiente2">Siguiente</string>
+
+    <string name="btnAtras">Salir</string>
+    <string name="btnAtras2">Cerrar</string>
+
+    <string name="bntMostrarResultado">Mostrar Resultado</string>
+
 </resources>
